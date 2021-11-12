@@ -5,9 +5,9 @@ Does matrix operations such as
 
 - Inverse
 
--Multiplication
+- Multiplication
 
--add and subtract methods are still being worked on
+- add and subtract methods are still being worked on
 
 In order to run, either enter in one or two text files in the command line.(1 to find the inverese or transverse and 2 to multiply, add, or subtract)
 
