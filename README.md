@@ -10,10 +10,15 @@ In order to run, either enter in one or two text files in the command line.(1 to
 Text files should have the following format:
 
 t
+
 3
+
 3
+
 1 0 0
+
 0 1 0
+
 0 0 1
 
 
